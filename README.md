@@ -1,4 +1,9 @@
-## Hi there 👋
+# 👋 Hi, I'm Yesmine Zayani
+
+🎓 **First-year Computer Engineering student at ENIS**  
+💻 Passionate about software engineering, open source, and building real-world solutions.  
+🔧 Currently learning: C, Python, Git  
+🌱 Looking to collaborate on meaningful projects  
 
 <!--
 **yesmine-zayani/yesmine-zayani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
